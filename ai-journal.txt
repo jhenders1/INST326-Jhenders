@@ -9,4 +9,7 @@
 # https://chatgpt.com/c/68b737ef-0fac-832a-99c4-349625997596
 
 #Week 2
-This week I used AI to help me find ideas for a school project, creating an app. I also used it to help me understand land navigation stuff. For example, map reading and grid coordinates.
+This week, I used AI to help me find ideas for a school project, creating an app. I also used it to help me understand land navigation stuff. For example, map reading and grid coordinates.
+
+#Week 3
+This week, I used AI to help me with my resume by organizing it and removing anything repetitive.
