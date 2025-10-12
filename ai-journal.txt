@@ -16,3 +16,6 @@ This week, I used AI to help me with my resume by organizing it and removing any
 
 #week 4
 This week, I used AI to help me understand the application of AI in cybersecurity for a future job.
+
+#week 5 
+This week, I used AI to help me learn how to program RFID cards for a personal project of mine.
