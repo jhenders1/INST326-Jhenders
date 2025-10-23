@@ -19,3 +19,7 @@ This week, I used AI to help me understand the application of AI in cybersecurit
 
 #week 5 
 This week, I used AI to help me learn how to program RFID cards for a personal project of mine.
+
+#week 6
+
+This week, I used ChatGPT to help me make flashcards to help me study for my INST311 midterm
